@@ -1,0 +1,8 @@
+aluno={}
+aluno["nome"]=input("digite nome")
+aluno["matricula"] =input("digite matricula")
+aluno["idade"]=int(input("digite idade"))
+aluno["curso"] = input("digite curso")
+aluno["semestre"]=int(input("digite semestre"))
+
+print (aluno)

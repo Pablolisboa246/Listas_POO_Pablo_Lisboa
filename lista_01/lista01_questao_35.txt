@@ -1,0 +1,16 @@
+questao 35
+
+a) algoritmo eh uma sequencia de passo para resolver um problema. ele ajuda a organizar oq o programa precisa fazer antes de tranformar isso em codigo.
+
+b) variaveis sao espacos usado pra guardar valores durante o programa. os tipos de dados dizem qual tipo de valor esta sendo guardado. exemplos:
+int: numeros inteiros, como 10
+float: numeros com casas decimais, como 7.5
+str: textos, como "matheus"
+bool: valores verdadeiro ou falso
+list: varios valores guardado junto em uma lista
+
+c) input() serve pra receber uma informacao digitada pelo usuario. print() serve pra mostra uma informacao ou resultado na tela.
+
+d) operadores aritmeticos faz calculos, por exemplo 5 + 2. operadores relacionais faz comparacoes, por exemplo 5 > 2. operadores logicos juntam ou negam condicoes, por exemplo idade >= 18 and idade < 60.
+
+e) if, elif e else serve pro programa tomar decisoes dependendo de uma condicao. for e while serve pra repetir uma parte do codigo. essas estruturas ajudam a controlar qual parte do programa vai ser executada e quantas vezes.
