@@ -1,4 +1,4 @@
-numero=int(input("digite o ultimo numero da plca"))
+numero=int(input("digite o ultimo numero da placa"))
 if numero % 2 == 0:
 
     print ("numero eh par")
