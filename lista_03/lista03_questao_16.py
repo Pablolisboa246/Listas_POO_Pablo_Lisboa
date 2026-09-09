@@ -1,19 +1,9 @@
-inicio=int(input("digite inicio do intervalo"))
-fim=int(input("digite fim do intervalo"))
-qtd=0
+iniciointervalo=int(input("digite o inicio do intervalo "))
+finalintervalo=int(input("digite o final do intervalo "))
+cont=0
 
-if inicio <= fim:
+for numero in range (iniciointervalo, finalintervalo+1):
+ if numero % 7 ==0:
+  cont = cont+1
 
-    for numero in range(inicio,fim+1):
-
-        if numero % 7 == 0:
-            qtd=qtd+1
-
-else:
-
-    for numero in range(fim,inicio+1):
-
-        if numero % 7 == 0:
-            qtd=qtd+1
-
-print("quantidae de multiplos de 7",qtd)
+print(" a quantidade de numeros multiplos de 7 eh igual ah", cont)
