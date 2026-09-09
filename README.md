@@ -27,15 +27,15 @@ Laços aninhados, listas e dicionários compostos, leitura e gravação de arqui
 
 ```text
 ├── README.md
-├── Lista_01/
+├── lista_01/
 │   ├── lista01_questao_01.py
 │   ├── lista01_questao_02.py
 │   └── ...
-├── Lista_02/
+├── lista_02/
 │   ├── lista02_questao_01.py
 │   ├── lista02_questao_02.py
 │   └── ...
-└── Lista_03/
+└── lista_03/
     ├── lista03_questao_01.py
     ├── lista03_questao_02.py
     └── ...
@@ -52,7 +52,7 @@ As questões dissertativas não constam neste repositório, pois foram respondid
 Pelo terminal, a partir da raiz do repositório:
 
 ```bash
-python Lista_01/lista01_questao_01.py
+python lista_01/lista01_questao_01.py
 ```
 
 Ou, pelo VS Code, abra o arquivo desejado e execute com **Run Python File**.
@@ -63,6 +63,6 @@ Os programas são interativos e solicitam os dados pelo teclado durante a execu�
 
 | Apresentação | Lista | Questão | Código | Link do vídeo |
 |---|---|---|---|---|
-| 1 | Lista 02 | Q21 | [Abrir código](./Lista_02/lista02_questao_21.py) | [Assistir ao vídeo](https://drive.google.com/drive/folders/1q0CqZ745HaTPXuTjdQsMkEhNwD-LLvi-?usp=sharing) |
-| 2 | Lista 03 | Q16 | [Abrir código](./Lista_03/lista03_questao_16.py) | [Assistir ao vídeo](https://drive.google.com/drive/folders/1ytUVaKSk6Nga7nYKPazkO890x24cOTCc?usp=sharing) |
-| 3 | Lista 03 | Q27 | [Abrir código](./Lista_03/lista03_questao_27.py) | [Assistir ao vídeo](https://drive.google.com/drive/folders/1lQEU2Sx29bnM5JOoXaAFINZ8T8m6oRxN?usp=drive_link) |
+| 1 | Lista 02 | Q21 | [Abrir código](./lista_02/lista02_questao_21.py) | [Assistir ao vídeo](https://drive.google.com/drive/folders/1q0CqZ745HaTPXuTjdQsMkEhNwD-LLvi-?usp=sharing) |
+| 2 | Lista 03 | Q16 | [Abrir código](./lista_03/lista03_questao_16.py) | [Assistir ao vídeo](https://drive.google.com/drive/folders/1ytUVaKSk6Nga7nYKPazkO890x24cOTCc?usp=sharing) |
+| 3 | Lista 03 | Q27 | [Abrir código](./lista_03/lista03_questao_27.py) | [Assistir ao vídeo](https://drive.google.com/drive/folders/1lQEU2Sx29bnM5JOoXaAFINZ8T8m6oRxN?usp=drive_link) |
